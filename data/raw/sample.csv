@@ -1,0 +1,8 @@
+ID, Full Name , Age ,Email,Join Date,Salary
+101,  Alice Smith  ,28,alice@example.com,2023-01-15,65000
+102,Bob Jones,34,bob@example.com,2022-11-20,72000
+103,Charlie Brown, ,charlie@example.com,2021-06-30,55000
+104,Dana White ,42,dana@example.com,2020-03-12,88000
+102,Bob Jones,34,bob@example.com,2022-11-20,72000
+105,Evan Wright  ,29,,2023-08-01,61000
+106,Fiona Gallagher,31,fiona@example.com,2022-04-18,67000
